@@ -1,4 +1,4 @@
-## Desafio Sicredi 
+## Desafio Junit
 Desafio de Automação de Testes de API
  
  <b>Nesse desafio, os objetivos são desenvolver testes baseados nos cenários abaixo, utilizando o serviço que está no link:</b>
